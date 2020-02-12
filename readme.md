@@ -6,7 +6,7 @@ The coordinates and colors of this landscape are stored in a file passed as para
 
 Here is a map example: [42.fdf](map_examples/42.fdf)
 
-_NOTE_
+__NOTE:__
 The whole project was realized using the school's graphic library: MinilibX.
 This library contains only basic drawing functions: open a window, lit a pixel and manage events.
 Everything else must be coded by students. (ex. file parsing, pixel coloring, rotations...).
