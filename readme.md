@@ -6,7 +6,7 @@ Here is a map example: [a relative link](map\ examples/42.fdf)
 
 
 
-![alt text](screens/screen1.png)
+![alta text](screens/screen1.png)
 ![alt text](screens/screen2.png)
 ![alt text](screens/screen3.png)
 ![alt text](screens/screen4.png)
