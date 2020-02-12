@@ -25,4 +25,4 @@ Realized bonus:
 
 
 
-_If you are interested to the complete code, do not hesitate to contact me._
+_If you are interested to the complete code, please do not hesitate to contact me._
