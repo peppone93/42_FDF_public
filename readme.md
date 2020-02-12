@@ -22,4 +22,7 @@ Realized bonus:
 ![alt text](screens/screen3.png)
 ![alt text](screens/screen4.png)
 
-If you are interested to the complete code, do not hesitate to contact me.
+
+
+
+_If you are interested to the complete code, do not hesitate to contact me._
