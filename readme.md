@@ -2,7 +2,7 @@ FDF
 
 This project is about creating a simplified 3D graphic representation of arelief landscape linking various points(x, y, z)via segments. The coordinates of this landscape are stored in a file passed as parameter to the program. 
 
-Here is a map example: [a relative link](./maps file/42.fdf)
+Here is a map example: [a relative link](./map examples/42.fdf)
 
 
 ![alt text](screens/screen1.png)
