@@ -1,7 +1,6 @@
 # FDF
 
-This project is about creating a simplified 3D graphic representation of arelief landscape
-linking various points (x, y, z) via segments.
+This project is about creating a simplified 3D graphic representation of a relief landscape linking various points (x, y, z) via segments.
 The coordinates and colors of this landscape are stored in a file passed as a parameter to the program.
 
 Here is a map example: [42.fdf](map_examples/42.fdf)
